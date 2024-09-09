@@ -20,7 +20,7 @@ This workshop covers an approach that is outlined in detail in [Gallinat & Pears
 
 ## R script
 
-The R script we will be working through in the workshop (which contains all the `stan` code you need) is available within this repository (([`pglmm-script.R`](https://github.com/willpearse/stancon-2024-pglmm/blob/main/pglmm-script.R))). It's the supplementary materials for the paper described above.
+The R script we will be working through in the workshop (which contains all the `stan` code you need) is available within this repository ([`pglmm-script.R`](https://github.com/willpearse/stancon-2024-pglmm/blob/main/pglmm-script.R)). It's the supplementary materials for the paper described above.
 
 ## Getting Started
 
@@ -44,3 +44,7 @@ As is hopefully projected on the board right now:
    c. ...build it from there
 5. Question 2 is all about competition among species. Can you fit those models
 6. Question 3 is all about co-evolution among groups (host vs. viruses). Can you fit those models?
+
+## Licence
+
+The PDF ([`pglmm-paper.pdf`](https://github.com/willpearse/stancon-2024-pglmm/blob/main/pglmm-paper.pdf)) and R script ([`pglmm-script.R`](https://github.com/willpearse/stancon-2024-pglmm/blob/main/pglmm-script.R)) are published elsewhere and licensing information is available from the publisher ([Oikos](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.08048)). All other materials here are under the MIT Licence (see `LICENSE` file in this repo).
