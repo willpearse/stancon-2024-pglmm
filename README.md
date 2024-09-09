@@ -16,11 +16,11 @@ You can access the presentation slides for the workshop [here](https://docs.goog
 
 ## Manuscript
 
-This workshop covers an approach that is outlined in detail in [Gallinat & Pearse (2021; Oikos 130(5): 669-79)](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.08048); you can either follow that link or the PDF is included in this repository (`pglmm-paper.pdf`).
+This workshop covers an approach that is outlined in detail in [Gallinat & Pearse (2021; Oikos 130(5): 669-79)](https://nsojournals.onlinelibrary.wiley.com/doi/full/10.1111/oik.08048); you can either follow that link or the PDF is included in this repository ([`pglmm-paper.pdf`](https://github.com/willpearse/stancon-2024-pglmm/blob/main/pglmm-paper.pdf)).
 
 ## R script
 
-The R script we will be working through in the workshop (which contains all the `stan` code you need) is available within this repository (`r-script.R`). It's the supplementary materials for the paper described above.
+The R script we will be working through in the workshop (which contains all the `stan` code you need) is available within this repository (([`pglmm-script.R`](https://github.com/willpearse/stancon-2024-pglmm/blob/main/pglmm-script.R))). It's the supplementary materials for the paper described above.
 
 ## Getting Started
 
@@ -44,6 +44,3 @@ As is hopefully projected on the board right now:
    c. ...build it from there
 5. Question 2 is all about competition among species. Can you fit those models
 6. Question 3 is all about co-evolution among groups (host vs. viruses). Can you fit those models?
-
-*Please remeber that Will leaves an hour before the end, so ask conceptual questions sooner rather than later!*
-
